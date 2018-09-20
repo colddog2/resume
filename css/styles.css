@@ -12,7 +12,7 @@ html {
     font-family: 'Open Sans', sans-serif;
     margin: 0;
   }
-  a {
+  a, .company {
       color: rgb(35, 174, 239);
   }
   a:hover {
@@ -65,7 +65,7 @@ html {
   
   /* Header styles only */
   header {
-    /*text-align: center;*/
+    text-align: center;
   }
   .profile-img {
     /*width: 300px;*/
@@ -91,6 +91,7 @@ html {
       background: #EDF2F4;
   }
   
+ 
   
   /* Education
   ------------------------------------*/
